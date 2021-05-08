@@ -1,0 +1,30 @@
+Hi,
+
+i am Bharat singh shekhawat student of NITK.
+I am looking for an internship opportunity in a software profile.
+I have done good projects which will be hosting on the college server very soon and will serve many people of the college. I am good in DSA, DBMS, ReactJs, Boostrap, Django, JavaScript, C++, HTML, CSS, Git, MySQL, Familiar:(Python, Java).
+If there is any opportunity please let me know.
+
+Thanks
+Resume:https://drive.google.com/file/d/1cqcPSkPL_DSmtZvi7KaJl-3fQb_UZjQI/view
+
+I am Bharat Singh pursuing my undergraduate from National Institute of Technology Karnataka, Surathkal in Civil engineering(Major), Information Technology(Minor).
+I am extremely interested in the job(Intern Analyst – HYD and BLR-S21HCBTAEA-OffCampus) at Deloitte.
+It would be great if you can refer me for this role.
+
+Hoping for your great response!
+
+
+
+https://drive.google.com/file/d/1cqcPSkPL_DSmtZvi7KaJl-3fQb_UZjQI/view
+
+
+
+Blogging platform for Developer Student Club(NITK) soon hosting on https://webclub.nitk.ac.in/#/blog
+
+Done good project in required domain
+Done good project in required domain.few of the live project are given below
+1. https://webclub.nitk.ac.in/#/blog 
+This is a blogging platform for webclub nitk designed by me alone with react.js , django , MySQL
+2.https://hindiclubnitk.pythonanywhere.com 
+This is the website for hindiclub designed by me using HTML ,css ,js django ,MySQL ... this website has Instagram clone.
